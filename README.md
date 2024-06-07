@@ -6,3 +6,5 @@ After every 4 round the speed of the balls will increase by .25
 After every 10 round another ball will be added.
 
 This is the link to the explanation video: https://drive.google.com/file/d/1o3Wv6F4bTFOFNL_8izPHjVbPJiXQgDen/view?usp=drive_link
+
+This is the link for the explanation of the code: https://drive.google.com/file/d/1o3Wv6F4bTFOFNL_8izPHjVbPJiXQgDen/view?usp=drive_link
